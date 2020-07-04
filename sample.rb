@@ -1,5 +1,5 @@
 def hello
-  p "hello, EMI Matsumura."
+  p "hello, Github."
 end
 
 hello
