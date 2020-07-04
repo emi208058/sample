@@ -1,5 +1,5 @@
 def hello
-  p "hello, EMI."
+  p "hello, EMI desctop."
 end
 
 hello
